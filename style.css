@@ -1051,7 +1051,6 @@ li {
     flex-wrap: wrap;
     width: 100%;
     max-width: 100vw;
-    padding: var(--padding-d-m-v) 2rem;
     box-sizing: border-box;
   }
 
