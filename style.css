@@ -763,7 +763,6 @@ li {
 
 .footer__newsletter--form input[type='email'] {
   border: 1px solid var(--quarternary-color);
-  border-right: none;
   border-radius: 4rem 0 0rem 4rem;
   color: var(--primary-color);
 
